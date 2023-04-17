@@ -4,3 +4,4 @@ fuji
 gala
 Golden Delicious
 honeycrip
+McIntosh
